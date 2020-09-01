@@ -1,0 +1,28 @@
+.room {
+    height: 100vh;
+    margin-top: 0px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.lit {
+    background-color: white;
+    color: black;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+button {
+    outline: none;
+    background-color: gray;
+    color: white;
+    border: none;
+    padding: 5px 30px;
+    margin-left: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
