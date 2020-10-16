@@ -2,9 +2,9 @@ name: Deploying React app (useState hook)
 
 on:
   push:
-    branches: [ master ]
+    branches: [ useReducer ]
   pull_request:
-    branches: [ master ]
+    branches: [ useReducer ]
 
 jobs:
   build:
